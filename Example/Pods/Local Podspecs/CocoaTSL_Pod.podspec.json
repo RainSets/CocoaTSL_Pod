@@ -1,0 +1,22 @@
+{
+  "name": "CocoaTSL_Pod",
+  "version": "0.1.0",
+  "summary": "A short description of CocoaTSL_Pod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/renzhenhua/CocoaTSL_Pod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "renzhenhua": "renzh_123@126.com"
+  },
+  "source": {
+    "git": "https://github.com/renzhenhua/CocoaTSL_Pod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CocoaTSL_Pod/Classes/**/*"
+}
