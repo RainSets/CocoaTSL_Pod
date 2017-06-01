@@ -22,7 +22,7 @@ pod "CocoaTSL_Pod"
 
 ## Author
 
-renzhenhua, renzh_123@126.com
+RainSets, renzh_123@126.com
 
 ## License
 
